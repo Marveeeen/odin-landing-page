@@ -220,3 +220,19 @@ button.first-box-button {
 .fourth-box-content button:hover {
     background-color: #1b5ac0;
 }
+
+/* ======================
+---- Footer Box-----
+=======================*/
+
+.footer {
+    background-color: #1f2937;
+}
+
+.footer div {
+    display: flex;
+    color: white;
+    justify-content: center;
+    padding: 36px 0;
+
+}
