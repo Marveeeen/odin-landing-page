@@ -189,3 +189,34 @@ button.first-box-button {
     margin-top: 16px;
 
 }
+
+/* ======================
+---- Fourth Box-----
+=======================*/
+
+.fourth-box-content {
+    display: flex;
+    flex: 1;
+    justify-content: space-around;
+    align-items: center;
+    height: 150px;
+    margin: 100px 0;
+    background-color: #3882f6;
+    border-radius: 8px;
+    color: white;
+}
+
+.fourth-box-content span {
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.fourth-box-content button {
+    transition-duration: 0.3s;
+    border: 2px solid white;
+    width: 120px;
+}
+
+.fourth-box-content button:hover {
+    background-color: #1b5ac0;
+}
